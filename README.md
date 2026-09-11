@@ -1,8 +1,8 @@
 # software-tester-assessment
 
-name: Keshav Agarwal
-e-mail: agarwalkeshav647@gmail.com
-phone: 9045403508
+- name: Keshav Agarwal
+- e-mail: agarwalkeshav647@gmail.com
+- phone: 9045403508
 
 # Assumptions: 
 - It's a web application
